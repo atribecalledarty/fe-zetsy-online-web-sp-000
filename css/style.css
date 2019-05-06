@@ -21,7 +21,9 @@ body {
 /* Write all remaining styles here */
 h1 {
   font-size: 80px;
-/*  padding-bottom: 0px;*/
   margin-bottom: 0px;
-  /*padding: 10px;*/
+}
+
+.bordered-pic{
+  border: 2px solid #9baaa5;
 }
