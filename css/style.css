@@ -27,3 +27,7 @@ h1 {
 .bordered-pic{
   border: 5px solid #9baaa5;
 }
+
+p {
+  color: black;
+}
